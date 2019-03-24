@@ -1,0 +1,11 @@
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\bin\Debug\netcoreapp2.0\WebApplicationLab1HTML.deps.json
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\bin\Debug\netcoreapp2.0\WebApplicationLab1HTML.runtimeconfig.json
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\bin\Debug\netcoreapp2.0\WebApplicationLab1HTML.runtimeconfig.dev.json
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\bin\Debug\netcoreapp2.0\WebApplicationLab1HTML.dll
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\bin\Debug\netcoreapp2.0\WebApplicationLab1HTML.pdb
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.csprojAssemblyReference.cache
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.csproj.CoreCompileInputs.cache
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.AssemblyInfoInputs.cache
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.AssemblyInfo.cs
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.dll
+E:\Labs\WebApplicationLab1HTML\WebApplicationLab1HTML\obj\Debug\netcoreapp2.0\WebApplicationLab1HTML.pdb
